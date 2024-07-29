@@ -3,8 +3,8 @@
 - 🖥️ Formado em Engenharia da Computação
 - 🌱 Estudando Hyperautomação em Python
 
-My Stack ~
-<div style="display: inline_block"><br>
+<h3 align="left">My Stack ~</h3>
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />      
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />        
